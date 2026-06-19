@@ -37,3 +37,5 @@ single-operator, built to run for years on hardware I control.
 ---
 
 Mostly Rust · OpenBSD by default · suckless-minded · [crod.me](https://crod.me)
+
+<!-- profiles render refresh -->
