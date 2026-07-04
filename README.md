@@ -15,10 +15,6 @@ single-operator, built to run for years on hardware I control.
 - **[helm](https://github.com/crodorg/helm)** — let an AI agent and a human
   drive the same tmux session, local or ssh-remote, with the etiquette baked in
   so neither breaks the other. Plus read-only verbs for inspecting the fleet.
-- **[arca](https://github.com/crodorg/arca)** — self-hosted personal-finance
-  daemon for OpenBSD. One sandboxed Rust binary tracks debt, investments,
-  recurring bills, API spend, and per-business P&L — read it from a vim-style TUI
-  over a Unix socket, or message it over XMPP.
 
 ### Knowledge stack — three tools, one `~/wiki`
 
